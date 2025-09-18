@@ -17,7 +17,7 @@ It combines **spaCy** for linguistic analysis, **Meta LLaMA 3.1** for temporal r
 
 ---
 
-## 🔧 Tech Stack  
+## Tech Stack  
 - [spaCy](https://spacy.io/) – NLP parsing & classification  
 - [Meta LLaMA 3.1](https://ai.meta.com/research/publications/llama/) (via [lmstudio](https://lmstudio.ai/)) – Temporal reasoning & event summarization  
 - [Streamlit](https://streamlit.io/) – Web app interface  
