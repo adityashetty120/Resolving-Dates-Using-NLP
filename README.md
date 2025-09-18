@@ -5,7 +5,7 @@ It combines **spaCy** for linguistic analysis, **Meta LLaMA 3.1** for temporal r
 
 ---
 
-## ✨ Features  
+## Features  
 - **Event Classification**  
   - Classifies sentences as **past/current events**, **future forecasts**, or **non-events** using spaCy.  
 - **Date Resolution**  
@@ -25,7 +25,7 @@ It combines **spaCy** for linguistic analysis, **Meta LLaMA 3.1** for temporal r
 
 ---
 
-## 📌 Example  
+## Example  
 
 **Input Text:**  
 The meeting was held on March 10, 2024.
@@ -44,7 +44,7 @@ A follow-up was scheduled a week later.
   }
 ]
 
-Timeline Output (Streamlit):
+**Timeline Output (Streamlit):**
 - 10-03-2024: The meeting was held.  
 - 17-03-2024: A follow-up was scheduled.  
 
