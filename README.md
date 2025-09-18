@@ -44,7 +44,7 @@ A follow-up was scheduled a week later.
   }
 ]
 
-**Timeline Output (Streamlit):**
+Timeline Output (Streamlit):
 - 10-03-2024: The meeting was held.  
 - 17-03-2024: A follow-up was scheduled.  
 
