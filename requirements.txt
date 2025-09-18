@@ -1,0 +1,5 @@
+spacy==3.7.2
+pandas==2.2.2
+streamlit==1.38.0
+lmstudio  # install via pip if available, else refer to lmstudio docs
+regex==2024.9.11
